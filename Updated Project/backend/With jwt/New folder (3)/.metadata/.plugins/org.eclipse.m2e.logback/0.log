@@ -1,0 +1,126 @@
+2024-05-22 16:57:16,105 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-22 16:58:01,770 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cg:Admin_service:0.0.1-SNAPSHOT @ C:\Users\SHSAHARE\Downloads\PureEarthOrganics Backend(Final)\Backend\Admin_service\pom.xml.
+2024-05-22 16:58:04,258 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cg:Cart_service:0.0.1-SNAPSHOT @ C:\Users\SHSAHARE\Downloads\PureEarthOrganics Backend(Final)\Backend\Cart_service\pom.xml.
+2024-05-22 16:58:04,806 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cg:Category_service:0.0.1-SNAPSHOT @ C:\Users\SHSAHARE\Downloads\PureEarthOrganics Backend(Final)\Backend\Category_service\pom.xml.
+2024-05-22 16:58:05,237 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cg:Customer_service:0.0.1-SNAPSHOT @ C:\Users\SHSAHARE\Downloads\PureEarthOrganics Backend(Final)\Backend\Customer_service\pom.xml.
+2024-05-22 16:58:05,625 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cg:Eureka-server:0.0.1-SNAPSHOT @ C:\Users\SHSAHARE\Downloads\PureEarthOrganics Backend(Final)\Backend\Eureka-server\pom.xml.
+2024-05-22 16:58:06,319 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gateway:gateway:0.0.1-SNAPSHOT @ C:\Users\SHSAHARE\Downloads\PureEarthOrganics Backend(Final)\Backend\gateway\pom.xml.
+2024-05-22 16:58:06,999 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cg:Orders_service:0.0.1-SNAPSHOT @ C:\Users\SHSAHARE\Downloads\PureEarthOrganics Backend(Final)\Backend\Orders_service\pom.xml.
+2024-05-22 16:58:07,440 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cg:Product_service:0.0.1-SNAPSHOT @ C:\Users\SHSAHARE\Downloads\PureEarthOrganics Backend(Final)\Backend\Product_service\pom.xml.
+2024-05-22 16:58:32,273 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Admin_service/src/main/java
+2024-05-22 16:58:32,275 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Admin_service/src/main/resources
+2024-05-22 16:58:32,277 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Admin_service/src/main/resources
+2024-05-22 16:58:32,279 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Admin_service/src/test/java
+2024-05-22 16:58:36,945 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Customer_service/src/main/java
+2024-05-22 16:58:36,946 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Customer_service/src/main/resources
+2024-05-22 16:58:36,948 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Customer_service/src/main/resources
+2024-05-22 16:58:36,949 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Customer_service/src/test/java
+2024-05-22 16:58:41,666 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product_service/src/main/java
+2024-05-22 16:58:41,666 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product_service/src/main/resources
+2024-05-22 16:58:41,667 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product_service/src/main/resources
+2024-05-22 16:58:41,670 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product_service/src/test/java
+2024-05-22 16:58:45,841 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Eureka-server/src/main/java
+2024-05-22 16:58:45,841 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Eureka-server/src/main/resources
+2024-05-22 16:58:45,843 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Eureka-server/src/main/resources
+2024-05-22 16:58:45,844 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Eureka-server/src/test/java
+2024-05-22 16:58:50,117 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Category_service/src/main/java
+2024-05-22 16:58:50,118 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Category_service/src/main/resources
+2024-05-22 16:58:50,119 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Category_service/src/main/resources
+2024-05-22 16:58:50,121 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Category_service/src/test/java
+2024-05-22 16:58:53,827 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Cart_service/src/main/java
+2024-05-22 16:58:53,828 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Cart_service/src/main/resources
+2024-05-22 16:58:53,828 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Cart_service/src/main/resources
+2024-05-22 16:58:53,830 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Cart_service/src/test/java
+2024-05-22 16:58:57,178 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gateway/src/main/java
+2024-05-22 16:58:57,179 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gateway/src/main/resources
+2024-05-22 16:58:57,179 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gateway/src/main/resources
+2024-05-22 16:58:57,182 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gateway/src/test/java
+2024-05-22 16:59:00,769 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Orders_service/src/main/java
+2024-05-22 16:59:00,771 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Orders_service/src/main/resources
+2024-05-22 16:59:00,772 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Orders_service/src/main/resources
+2024-05-22 16:59:00,773 [Worker-5: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Orders_service/src/test/java
+2024-05-22 16:59:04,303 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 8 project(s) in 73 sec
+2024-05-22 16:59:06,377 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-05-22 16:59:12,998 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cg:Admin_service:0.0.1-SNAPSHOT @ C:\Users\SHSAHARE\Downloads\PureEarthOrganics Backend(Final)\Backend\Admin_service\pom.xml.
+2024-05-22 16:59:14,397 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cg:Cart_service:0.0.1-SNAPSHOT @ C:\Users\SHSAHARE\Downloads\PureEarthOrganics Backend(Final)\Backend\Cart_service\pom.xml.
+2024-05-22 16:59:14,623 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cg:Category_service:0.0.1-SNAPSHOT @ C:\Users\SHSAHARE\Downloads\PureEarthOrganics Backend(Final)\Backend\Category_service\pom.xml.
+2024-05-22 16:59:14,868 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cg:Customer_service:0.0.1-SNAPSHOT @ C:\Users\SHSAHARE\Downloads\PureEarthOrganics Backend(Final)\Backend\Customer_service\pom.xml.
+2024-05-22 16:59:15,087 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cg:Eureka-server:0.0.1-SNAPSHOT @ C:\Users\SHSAHARE\Downloads\PureEarthOrganics Backend(Final)\Backend\Eureka-server\pom.xml.
+2024-05-22 16:59:15,394 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cg:Orders_service:0.0.1-SNAPSHOT @ C:\Users\SHSAHARE\Downloads\PureEarthOrganics Backend(Final)\Backend\Orders_service\pom.xml.
+2024-05-22 16:59:15,706 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cg:Product_service:0.0.1-SNAPSHOT @ C:\Users\SHSAHARE\Downloads\PureEarthOrganics Backend(Final)\Backend\Product_service\pom.xml.
+2024-05-22 16:59:15,895 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.gateway:gateway:0.0.1-SNAPSHOT @ C:\Users\SHSAHARE\Downloads\PureEarthOrganics Backend(Final)\Backend\gateway\pom.xml.
+2024-05-22 16:59:33,756 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Admin_service/src/main/java
+2024-05-22 16:59:33,757 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Admin_service/src/main/resources
+2024-05-22 16:59:33,758 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Admin_service/src/main/resources
+2024-05-22 16:59:33,759 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Admin_service/src/test/java
+2024-05-22 16:59:37,614 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Cart_service/src/main/java
+2024-05-22 16:59:37,663 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Cart_service/src/main/resources
+2024-05-22 16:59:37,665 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Cart_service/src/main/resources
+2024-05-22 16:59:37,668 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Cart_service/src/test/java
+2024-05-22 16:59:41,410 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Category_service/src/main/java
+2024-05-22 16:59:41,411 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Category_service/src/main/resources
+2024-05-22 16:59:41,412 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Category_service/src/main/resources
+2024-05-22 16:59:41,413 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Category_service/src/test/java
+2024-05-22 16:59:43,802 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Customer_service/src/main/java
+2024-05-22 16:59:43,804 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Customer_service/src/main/resources
+2024-05-22 16:59:43,804 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Customer_service/src/main/resources
+2024-05-22 16:59:43,805 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Customer_service/src/test/java
+2024-05-22 16:59:45,553 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Eureka-server/src/main/java
+2024-05-22 16:59:45,553 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Eureka-server/src/main/resources
+2024-05-22 16:59:45,553 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Eureka-server/src/main/resources
+2024-05-22 16:59:45,554 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Eureka-server/src/test/java
+2024-05-22 16:59:47,809 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Orders_service/src/main/java
+2024-05-22 16:59:47,811 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Orders_service/src/main/resources
+2024-05-22 16:59:47,812 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Orders_service/src/main/resources
+2024-05-22 16:59:47,813 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Orders_service/src/test/java
+2024-05-22 16:59:50,043 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product_service/src/main/java
+2024-05-22 16:59:50,044 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product_service/src/main/resources
+2024-05-22 16:59:50,045 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product_service/src/main/resources
+2024-05-22 16:59:50,046 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product_service/src/test/java
+2024-05-22 16:59:52,556 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gateway/src/main/java
+2024-05-22 16:59:52,556 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gateway/src/main/resources
+2024-05-22 16:59:52,557 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gateway/src/main/resources
+2024-05-22 16:59:52,558 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gateway/src/test/java
+2024-05-22 16:59:57,096 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 8 poms: local refresh takes 0.00 sec, refresh facades takes 26.00 sec, update config takes 20.00 sec 
+2024-05-22 16:59:58,521 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-22 16:59:58,586 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-22 16:59:58,600 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHSAHARE\Downloads\PureEarthOrganics Backend(Final)\Backend\Admin_service\src\test\resources
+2024-05-22 17:00:00,114 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-22 17:00:00,160 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-22 17:00:00,170 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHSAHARE\Downloads\PureEarthOrganics Backend(Final)\Backend\Cart_service\src\test\resources
+2024-05-22 17:00:01,353 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-22 17:00:01,390 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-22 17:00:01,400 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHSAHARE\Downloads\PureEarthOrganics Backend(Final)\Backend\Category_service\src\test\resources
+2024-05-22 17:00:02,645 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-22 17:00:02,683 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-22 17:00:02,691 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHSAHARE\Downloads\PureEarthOrganics Backend(Final)\Backend\Customer_service\src\test\resources
+2024-05-22 17:00:03,257 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-22 17:00:03,291 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-22 17:00:03,298 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHSAHARE\Downloads\PureEarthOrganics Backend(Final)\Backend\Eureka-server\src\test\resources
+2024-05-22 17:00:04,397 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-22 17:00:04,438 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-22 17:00:04,445 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHSAHARE\Downloads\PureEarthOrganics Backend(Final)\Backend\Orders_service\src\test\resources
+2024-05-22 17:00:05,552 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-22 17:00:05,587 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-22 17:00:05,599 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHSAHARE\Downloads\PureEarthOrganics Backend(Final)\Backend\Product_service\src\test\resources
+2024-05-22 17:00:06,121 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-22 17:00:06,152 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-22 17:00:06,159 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHSAHARE\Downloads\PureEarthOrganics Backend(Final)\Backend\gateway\src\test\resources
+2024-05-22 17:02:00,581 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cg:Eureka-server:0.0.1-SNAPSHOT @ C:\Users\SHSAHARE\OneDrive - Capgemini\Desktop\New folder (3)\Eureka-server\pom.xml.
+2024-05-22 17:02:03,106 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Eureka-server/src/main/java
+2024-05-22 17:02:03,107 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Eureka-server/src/main/resources
+2024-05-22 17:02:03,108 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Eureka-server/src/main/resources
+2024-05-22 17:02:03,108 [Worker-13: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Eureka-server/src/test/java
+2024-05-22 17:02:04,822 [Worker-13: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2024-05-22 17:02:05,406 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-22 17:02:05,438 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-22 17:02:05,459 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHSAHARE\OneDrive - Capgemini\Desktop\New folder (3)\Eureka-server\src\test\resources
+2024-05-22 17:03:25,126 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cg:Eureka-server:0.0.1-SNAPSHOT @ C:\Users\SHSAHARE\OneDrive - Capgemini\Desktop\New folder (3)\Eureka-server\pom.xml.
+2024-05-22 17:03:27,136 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Eureka-server/src/main/java
+2024-05-22 17:03:27,138 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Eureka-server/src/main/resources
+2024-05-22 17:03:27,139 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Eureka-server/src/main/resources
+2024-05-22 17:03:27,139 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Eureka-server/src/test/java
+2024-05-22 17:03:28,935 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2024-05-22 17:03:29,563 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-05-22 17:03:29,595 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-05-22 17:03:29,604 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHSAHARE\OneDrive - Capgemini\Desktop\New folder (3)\Eureka-server\src\test\resources

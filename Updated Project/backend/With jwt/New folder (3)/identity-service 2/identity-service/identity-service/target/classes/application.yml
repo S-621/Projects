@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: Identity_service
+
+eureka:
+  client:
+    service-url:
+      defaultZone : http://localhost:8070/eureka/
+
